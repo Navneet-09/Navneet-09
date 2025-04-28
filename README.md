@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me :
-- 🎓 I’m Currently pursuing a Master of Computer Applications (MCA), set to graduate in 2024
+- 🎓 Master of Computer Applications (MCA) – Graduated in 2024
 - 💻 Specializes in JavaScript development
 - 🌐 Proficient in HTML, CSS, and JavaScript
 - 🚀 Passionate about crafting dynamic and innovative web solutions
